@@ -26,7 +26,7 @@ Ponoko|[https://www.ponoko.com/](https://www.ponoko.com/)
 
 ## Alternatives
 
-Most universities will have a 3D printer... somewhere. Especially in the engineering departments. Time to make friends with the technicians.
+Most universities will have a 3D printer... somewhere. Especially in the engineering and art & design departments. Time to make friends with the technicians.
 
 ## Modifying the 3D models
 
