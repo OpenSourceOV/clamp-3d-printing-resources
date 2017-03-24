@@ -1,6 +1,6 @@
 # Clamp 3D Printing Resources
 
-All the 3D printable files to create the OpenSourceOV clamp for time-lapse capture of images and leaves are available in the 3d-printing-files folder. The easiest way to get hold of these files is to [https://github.com/OpenSourceOV/clamp-3d-printing-resources/archive/master.zip](download the repository zip file). Unzip and the files will be in the 3d-printing-files folder.
+All the 3D printable files to create the OpenSourceOV clamp for time-lapse capture of images and leaves are available in the 3d-printing-files folder. The easiest way to get hold of these files is to [download the repository zip](https://github.com/OpenSourceOV/clamp-3d-printing-resources/archive/master.zip). Unzip and the files will be in the 3d-printing-files folder.
 
 ## Printing the files
 
