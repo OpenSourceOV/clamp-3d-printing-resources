@@ -10,19 +10,7 @@ Although the price of 3D printers has dropped significantly in recent years an o
 
 ## List of online 3D printing services
 
-### Australia/New Zealand 
-
-Provider|Contact
--------|---------
-3d-print.com.au|[http://3dprint-au.com/](http://3dprint-au.com/)
-
-### U.S / World
-
-Provider|Contact
--------|---------
-i-Materialise|[https://i.materialise.com/](https://i.materialise.com/)
-Sculpteo|[https://www.sculpteo.com/en/](https://www.sculpteo.com/en/)
-Ponoko|[https://www.ponoko.com/](https://www.ponoko.com/)
+A list of 3D printing suppliers can be found in the  [https://github.com/OpenSourceOV/resources](https://github.com/OpenSourceOV/resources) repository.
 
 ## Alternatives
 
@@ -30,5 +18,5 @@ Most universities will have a 3D printer... somewhere. Especially in the enginee
 
 ## Modifying the 3D models
 
-Great! OpenSourceOV is an open source project that wants the community to tweak, improve, experiment and help build the next generation of the clamp. TinkerCAD ([https://www.tinkercad.com](https://www.tinkercad.com)) is an excellent and free online 3D editor. Create a free TinkerCAD account then import the clamp model publicly available at [https://tinkercad.com/things/7c08LzE3G9j](https://tinkercad.com/things/7c08LzE3G9j). Click 'Sign up to copy', sign up then copy to your own TinkerCAD workspace to edit. If you haven't used TinkerCAD before then you can quickly work your way through their excellent [online tutorials](https://www.tinkercad.com/learn/).
+Great! OpenSourceOV is an open source project that wants the community to tweak, improve, experiment and help build the next generation of the clamp. TinkerCAD ([https://www.tinkercad.com](https://www.tinkercad.com)) is an excellent and free online 3D editor. Create a free TinkerCAD account then import the clamp model publicly available at [https://tinkercad.com/things/7c08LzE3G9j](https://tinkercad.com/things/7c08LzE3G9j). Click 'Sign up to copy', sign up then copy to your own TinkerCAD workspace to edit. If you haven't used TinkerCAD before then you can quickly work your way through their excellent [online tutorials](https://www.tinkercad.com/learn/). More 3D printing resources can be found here: [https://github.com/OpenSourceOV/resources](https://github.com/OpenSourceOV/resources)
 
