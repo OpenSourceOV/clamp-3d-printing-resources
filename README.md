@@ -8,7 +8,7 @@ All the 3D printable files to create the OpenSourceOV clamps are available in th
 
 ## Printing the files
 
-The .prn files can be opened by any 3D printing software and can be printed by any 3D printer. 
+The .prn / .stl files can be opened by any 3D printing software and can be printed by any 3D printer. 
 
 There is now a diverse range in 3D printers, from cheaper hobbyist models to super-expensive large-scale industrial printers. As you'd expect the result is a broad range in print quality and a growing number of options for materials that can be printed. Although the various recesses and holes for the clamp nuts and bolts have been given extra room than required to accommodate to some degree the varying accuracy and quality of 3D prints, many of the cheaper 3D printers are simply not going to provide the accuracy or durability required. 
 
